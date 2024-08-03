@@ -1,4 +1,4 @@
-Community chat app
+#Building a Community chat app
 from flask import Flask, request, redirect, session
 import os
 from replit import db
